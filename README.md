@@ -22,6 +22,7 @@ The project aims to to provide users with access to historical temperature data 
 
 ### Homepage  
 - The user could see URL format to use, also could get information what Station ID and Name included in this Weather Data API
+
   <img src="./image/weather1.1.png" alt="" width = "600"/>
 
 ### Retrieve Temperature by Date and Station
