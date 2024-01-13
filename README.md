@@ -18,7 +18,11 @@ The project aims to to provide users with access to historical temperature data 
 
 ## Project Result
 
-[Click here to get full code](https://github.com/nickenshidqia/Build_Historical_Weather_Data_API_Using_Python/blob/ca78abd6c1d939e0382be3d30e794bf5ad228864/main.py)
+[Click here to get full code](https://github.com/nickenshidqia/Build_Historical_Weather_Data_API_Using_Python/blob/ca78abd6c1d939e0382be3d30e794bf5ad228864/main.py)  
+
+### Homepage  
+- The user could see URL format to use, also could get information what Station ID and Name included in this Weather Data API
+  <img src="./image/weather1.1.png" alt="" width = "500"/>
 
 ### Retrieve Temperature by Date and Station
 
